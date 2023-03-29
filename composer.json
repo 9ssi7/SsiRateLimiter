@@ -1,0 +1,20 @@
+{
+    "name": "ssi/rate-limiter",
+    "description": "a fast, flexible, reliable rate limiter for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ssi\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sami Salih İbrahimbaş",
+            "email": "info@ssibrahimbas.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
