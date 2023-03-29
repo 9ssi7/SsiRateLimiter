@@ -1,11 +1,11 @@
-# Ssi \ Rate Limiter
+# Ssibrahimbas \ Rate Limiter
 
 a fast, flexible, reliable rate limiter for php
 
 ## Installation
 
 ```bash
-composer require ssi/rate-limiter
+composer require ssibrahimbas/rate-limiter
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ composer require ssi/rate-limiter
 ```php
 <?php
 
-use Ssi\RateLimiter;
+use Ssibrahimbas\RateLimiter;
 
 $rateLimiter = new RateLimiter();
 

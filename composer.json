@@ -1,11 +1,11 @@
 {
-    "name": "ssi/rate-limiter",
+    "name": "ssibrahimbas/rate-limiter",
     "description": "a fast, flexible, reliable rate limiter for php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ssi\\": "src"
+            "Ssibrahimbas\\": "src"
         }
     },
     "authors": [
